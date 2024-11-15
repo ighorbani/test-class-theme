@@ -6,4 +6,6 @@ echo 'Github';
 
 echo 'an other change';
 
+echo 'This is a new line!';
+
 ?>
